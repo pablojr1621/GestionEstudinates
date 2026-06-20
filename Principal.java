@@ -8,7 +8,7 @@ public class Principal {
 
         // Usar métodos
         estudiante1.mostrarInformacion();
-        estudiante2.verificarAprobacion();
+        estudiante1.verificarAprobacion();
 
         System.out.println("-----------");
 
